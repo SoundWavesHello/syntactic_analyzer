@@ -1,0 +1,10 @@
+type    int
+main    main
+(       (
+)       )
+{       {
+type    int
+id      x
+return  return
+id       x
+}       }
